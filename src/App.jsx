@@ -17,7 +17,7 @@ function App() {
   }, []);
 
   return (
-    <div className="flex bg-bckgrnd justify-center items-center h-svh">
+    <div className="flex bg-black justify-center items-center h-svh">
       {loading ? (
         <Loader />
       ) : (

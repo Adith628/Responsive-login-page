@@ -9,3 +9,9 @@
   font-size: smaller;
   color: #b6f09c;
 }
+
+.btn:hover {
+  background-color: #21ffdacc;
+  color: #fff;
+  transition: all 0.5s ease-in;
+}
