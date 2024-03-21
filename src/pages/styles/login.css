@@ -1,0 +1,11 @@
+.right {
+  background-image: url("../../assets/illus_login.png");
+  background-position: center;
+  background-size: cover;
+  width: 35vw;
+}
+
+.cmo {
+  font-size: smaller;
+  color: #b6f09c;
+}
